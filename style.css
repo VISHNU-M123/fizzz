@@ -1,0 +1,121 @@
+.header{
+    background: #120b2d;
+    width: 100%;
+    height: 72px;
+    position: fixed;
+    color:#fff;
+    display: flex;
+    overflow: hidden;
+    gap: 20vw;  
+}
+.body{
+    
+    width: 100vw;   
+}
+.first-img{
+    width: 100%;
+}
+.second{
+    width: 100%;
+    display: flex;
+}
+.left
+{
+    background-color: black;
+    height: 700px;
+    width: 50%;
+    justify-content: center;
+}
+.fizz-img{
+    width: 190px;
+    height: 529px;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 87px;  
+}
+.heading-img{
+    color: #fff;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 800;
+    font-family: "EksellDisplayWeb-Small";
+    margin-top: -350px;
+}
+.right{
+   
+    height: 700px;
+    width: 50%;
+   margin-top: 120px;
+}
+.icons-paragraph{
+    height: -1px;
+    padding-left: 101px;
+}
+.fb-icon{
+    width: 30px;
+    height: 50px;
+}
+.insta-icon{
+    width: 30px;
+    height: 50px;
+}
+.twitter-img{
+    width: 30px;
+    height: 50px;
+}
+.youtube-img{
+    width: 30px;
+    height: 50px;
+}
+.container{
+    width: 99vw;   
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.img-co{
+    width: 15vw;
+    height: 100%;
+    /*background-color: red*/;
+    text-size-adjust: 2px;
+    text-align: center;
+    align-content: center;
+    margin-top: 20px;
+/*-------------home-contactus----------------------*/
+}
+.p-co{
+    display: flex;
+    gap: 4vw;
+    margin-top: 25px;
+    font-family: sans-serif;
+    font-size: 15px;   
+}
+.p{
+    font-size: 16px;
+    display:inline-block;
+    gap: 70px;
+}
+.down{
+    
+    height: 300px;
+    display: flex;
+    text-align: left;
+    gap: 20vw;
+    padding: 5vh 5vw;
+}
+.last-img{
+    width: 100%;
+}
+.p-co p:hover{
+    color: red;
+}
+.logo a{
+    color: black;
+    font-size: 24px;
+}
